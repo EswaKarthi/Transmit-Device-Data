@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    show-sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/testing
+    username: postgres
+    password: Eswa3747@
